@@ -1,0 +1,25 @@
+[29-Aug-2023 10:58:35 UTC] PHP Notice:  Undefined index: Checkout in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 7
+[29-Aug-2023 11:00:04 UTC] PHP Notice:  Undefined index: Checkout in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 7
+[29-Aug-2023 11:00:17 UTC] PHP Notice:  Undefined index: Checkout in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 7
+[29-Aug-2023 11:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 7
+[29-Aug-2023 11:00:18 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_tZkt172DcJrYqw) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+  thrown in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Aug-2023 11:02:06 UTC] PHP Notice:  Undefined index: price in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 9
+[29-Aug-2023 11:02:06 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_hgvCsMyUCw6bD0) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+  thrown in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Aug-2023 11:02:32 UTC] PHP Notice:  Undefined index: price in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 10
+[29-Aug-2023 11:02:33 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_YzzqhqjtZ7u2Ni) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+  thrown in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Aug-2023 11:03:38 UTC] PHP Notice:  Undefined index: price in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/charge.php on line 10
+[29-Aug-2023 11:03:38 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_fq5NsdQE6ziLnk) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+  thrown in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Aug-2023 11:15:33 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 11:15:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/ateckwgz/softrobo.systems/projects/louis_new/database.php on line 70
+[29-Aug-2023 11:15:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 191
+[29-Aug-2023 11:16:58 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 11:21:40 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 13:34:12 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 13:38:19 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 13:39:48 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[29-Aug-2023 14:08:01 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
+[05-Sep-2023 08:46:11 UTC] PHP Notice:  Undefined index: customer_id in /home/ateckwgz/softrobo.systems/projects/louis_new/stripe/payment.php on line 37
